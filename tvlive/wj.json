@@ -9,6 +9,7 @@
 
 "sites":[
 {"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.10","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
+{"key":"csp_Liangzi","name":"龙天🌏量子搜索","type":3,"api":"csp_Liangzi","quickSearch":1,"searchable":1,"changeable":1,"jar":"./box/spider/lz.jar"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/fm商店.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"csp_KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
